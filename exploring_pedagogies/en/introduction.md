@@ -1,61 +1,57 @@
-#EXPLORING PEDAGOGIES Relations Technical Speaker Training
+# Exploring Pedagogies.
 
-![DevRel](https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png "DevRel")
+First, a bit of background to set the stage....There are some core ideas that underpin the Mozilla “way” of teaching. We’ll sum them up for you in short order..
 
-##Developer Relations
+##Making is Learning
 
-Developers are creating the future by building services and apps for people all over the world. The goal of Mozilla Developer Relations is to help developers use open and standardized web technologies to succeed in achieving their goals.  local market data. This local market data is extremely difficult to obtain, let alone, update regularly if you’re not actually on the ground.   
+We are all makers. We cook, sew, construct, write, play music, tinker, paint, tell stories. We engage in our world through the creation of thousands of artifacts that allow others to understand our outlooks and world views. **We express ourselves through creation.** We always have. And in all of our making we express ourselves and then we reflect on what we've created. **We share our creations with others and we ask for feedback.** “Do you like my new recipe?” “What do you think of my painting?”
 
-###Developer Relations Training Pilot
+Throughout our process, we learn. It is through trial and error and the ever important failure that we learn what to do and what not to do. Learning to make something work involves discovery and wonder - it's a spiral of <a href="http://en.wikipedia.org/wiki/Motivation#Intrinsic_and_extrinsic_motivation">intrinsic motivation</a>; each new understanding unlocks new questions. We improve our skills as we create.
 
-* Increase developer awareness and adoption of Mozilla products and the Open Web as a platform by:
-* Growing a base of high-quality volunteer speakers...
-* Supporting your efforts/goals with training, materials, mentor-ship, swag and travel funding...
- In order to present timely, relevant technical material at regional developer events.  Initial participation will be by invitation.  You can [apply here](). Benefits of participation include 1:1 speaker-coaching, and funded-travel to an event.
+In the Making as Learning Movement, networks like <a href="http://webmaker.org?ref=training">Webmaker</a>, the <a href="http://explorecreateshare.org">Hive Learning Networks</a>, <a href="https://twitter.com/make2learn">Make to Learn</a>, the <a href="http://digitalis.nwp.org">National Writing Project</a> and many, many more are integrating interested-based, hands on activities into their lesson plans and programming to focus more squarely on each learner's needs and building community in the process. These networks are experimenting with changing the power dynamic between teacher and learner, instead forming networks of peers, and using the idea of mentorship to level up competencies, both in the “learner” as well as the “teacher”.
 
-**This Community Education Course will prepare you for participation and success in this pilot**
+##Connected Learning
 
-###Who are you?
+Cultural anthropologists and researchers funded by the MacArthur Foundation's Digital Media and Learning Initiative released a new learning model called <a href="http://dmlcentral.net/press/2012-02/researchers-introduce-new-model-learning-connected-learning-designed-‘mine-new-social">“Connected Learning”</a> in the first quarter of 2012 (“Researchers Introduce New Model of Learning, Connected Learning,” 2012). 
 
-![speaker](http://tiptoes.ca/wp-content/uploads/2015/02/12293151316_5a7bde0f2b_z.jpg)
+This model (see below) is based on a large body of research and includes Connected Learning principles and core values.
 
-This first training session will extended to a individuals by invitation only, as seleced from an initial screening process.  With the success of the intial training, this opportunity will become open to more and more participants.  Before you apply, please consider these qualifications :
+<a href="http://clalliance.org/why-connected-learning/"><img alt="the Connected Learning Model" src="http://stuff.webmaker.org/teach-assets/teachtheweb/images/connectedlearninggraphic.png"/></a>
 
-###We Need:
-* A basic understanding of the Web technology stack (TCP/IP, HTTP, HTML, JavaScript, CSS) 
-ability to code JS, HTML5
-* Some experience as a presenter or technical content creator
-* Basic knowledge of Mozilla and our mission, and general technical understanding of the Open Web/the web as platform
-* Basic English speaking, reading, writing proficiency (this requirement will change as the program evolves)
+These principles state that education in the modern world needs to be:
 
-###We Would Love:
-* A deep understanding of the Web technology stack (TCP/IP, HTTP, HTML, JavaScript, CSS) 
-* a presence in a regional tech community or technical community of interest 
-* past experience speaking at a tech event or meetup, or playing a role as supporter or organizer
-* past experience creating demos, docs or other web content
+1. **Interest-powered** - the researchers state that “**learners who are interested in what they are learning, achieve higher order learning outcomes.**” (“Connected Learning Principles,” n.d.) Organizations that follow the connected learning principles create programming that allows the learner to explore their own interests.
 
+2. **Peer-supported** – Connected learning also has an element of **socialization as a required function in learning**. Allowing learners to interact with each other and teach each other in various forms of group work helps learners make connections not only with the materials they're learning, but with their peers as well. Creating learning spaces where peer to peer learning is encouraged leads to deeper cultural exploration and understanding.
 
-**You will be one of the founding members of our new Developer Engagement Impact Team!**
+3. **Academically oriented** - The third principle proposed by the Connected Learning Model proposes that **academic success is an important underpinning for intellectual growth**.
 
+There are a variety of networks that seek to put these principles and values into practice.  Connected Learning is an innovative way of creating peer groups from different parts of world for the sake of learning &amp; sharing knowledge, so all over the world groups of people and organizations are beginning to use the model to help them design learning opportunities for their local communities.
 
-*[TODISCUSS] Can anyone still take this community course, or should they be accepted (ie: we can record  and place on our platform for others to lear more about)
+In practice, it would seem that both hyper-local aspects as well as global connections play an important role in Connected Learning.
 
+##Open Web
 
-###Who are we?
+When we talk about “openness”, there are a variety of things that come to mind. We can view openness i) <a href="https://p2pu.org/en/schools/school-of-open/">through the lens of copyright/copyleft</a>, ii) <a href="https://developer.mozilla.org/en-US/docs/Web_Standards">through the technical structures</a> that make a webpage open or not, iii) through <a href="https://wiki.mozilla.org/Working_open">the cultural practices</a> the Open Community prides itself on, and so on. The term openness is a confluence of technical, cultural and social definitions that can get meta pretty quickly.
 
-We're as invested in your success and experience participating as we are in the outcome of your work.  We are the Mozilla Developer Relations Team
+###Tenets of Openness
+![A Mark Surman Doodle][8]
 
-* [Havi Hoffman](https://mozillians.org/en-US/u/havi/)
-* TODO: update this list
+Nevertheless, there are several tenets of openness that apply to the technical implementation as well as the social and cultural usage of the Web:
 
+The first is **decentralization**. The Open Web is made up of thousands and thousands of independent servers and webpages. The networked computers that make up the Internet are not owned by any single entity. Additionally, webpages are created and maintained by millions of people. Decentralization in the social and cultural space is inherent in the Open Web.
 
+Another tenet is **transparency**. You can see how any webpage is built, you can copy a webpages code and duplicate and/or remix it to be your own by viewing its source code. Furthermore, the culture of Open is one that transparent about processes, creations and authors. We make media and write posts about our work. We ask questions and allow anyone to feedback on them through commenting and social media. We change things based on what our peers say, and we explain our decisions openly, so that everyone can see not only what we've done, but how and why. We iterate on our ideas based on the feedback we receive from our peers.
 
+With decentralization and transparency comes the tenet of **hackability**. The Open Web is a structure that makes remix and redistribution easy, and the culture that lives by these tenets takes pride in extending, changing and reforming each other's work. Because we can see how things are built, we can change them and apply new meaning and context atop someone else's ideas. We start to have a conversation through production, and that is something that is supported by and encouraged through the Open Web and Open Culture.
 
+<img alt="Good vs Bad Theft from Austin Kleon" src="http://farm7.staticflickr.com/6215/6289302147_38e8035680_z.jpg"/>
+###Ownership and Authorship
 
+**A remix creates a derivative work from an original.** In the web context, remix is used to imply that a new work is built off an already established base. That “base” work might be a code base, a curriculum base, an image base, a text base, etc.
 
+What's important about ideas and creation in an open context is making sure that credit is given where credit is due. Since we all influence each other, **it's important to make note of who influences your work and how.**
 
+**Let's explore open collaboration together.** Below are some ideas on how you might explore the Open Web through making. This short blog post barely scratches the surface of what the Open Web is or why it should be protected. Below are a variety of readings that will help you **delve deeper into the idea of “openness” and why it's important.**
 
-
-
-
-
+  [8]: http://commonspace.files.wordpress.com/2010/06/open-web-1-of-1.jpg
