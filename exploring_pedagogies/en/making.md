@@ -1,7 +1,3 @@
-# Exploring Pedagogies.
-
-First, a bit of background to set the stage....There are some core ideas that underpin the Mozilla “way” of teaching. We’ll sum them up for you in short order..
-
 ##Making is Learning
 
 We are all makers. We cook, sew, construct, write, play music, tinker, paint, tell stories. We engage in our world through the creation of thousands of artifacts that allow others to understand our outlooks and world views. **We express ourselves through creation.** We always have. And in all of our making we express ourselves and then we reflect on what we've created. **We share our creations with others and we ask for feedback.** “Do you like my new recipe?” “What do you think of my painting?”
