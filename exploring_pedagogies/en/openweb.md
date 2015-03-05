@@ -1,0 +1,56 @@
+##Open Web
+
+When we talk about “openness”, there are a variety of things that come to mind. We can view openness i) <a href="https://p2pu.org/en/schools/school-of-open/">through the lens of copyright/copyleft</a>, ii) <a href="https://developer.mozilla.org/en-US/docs/Web_Standards">through the technical structures</a> that make a webpage open or not, iii) through <a href="https://wiki.mozilla.org/Working_open">the cultural practices</a> the Open Community prides itself on, and so on. The term openness is a confluence of technical, cultural and social definitions that can get meta pretty quickly.
+
+###Tenets of Openness
+![A Mark Surman Doodle][8]
+
+Nevertheless, there are several tenets of openness that apply to the technical implementation as well as the social and cultural usage of the Web:
+
+The first is **decentralization**. The Open Web is made up of thousands and thousands of independent servers and webpages. The networked computers that make up the Internet are not owned by any single entity. Additionally, webpages are created and maintained by millions of people. Decentralization in the social and cultural space is inherent in the Open Web.
+
+Another tenet is **transparency**. You can see how any webpage is built, you can copy a webpages code and duplicate and/or remix it to be your own by viewing its source code. Furthermore, the culture of Open is one that transparent about processes, creations and authors. We make media and write posts about our work. We ask questions and allow anyone to feedback on them through commenting and social media. We change things based on what our peers say, and we explain our decisions openly, so that everyone can see not only what we've done, but how and why. We iterate on our ideas based on the feedback we receive from our peers.
+
+With decentralization and transparency comes the tenet of **hackability**. The Open Web is a structure that makes remix and redistribution easy, and the culture that lives by these tenets takes pride in extending, changing and reforming each other's work. Because we can see how things are built, we can change them and apply new meaning and context atop someone else's ideas. We start to have a conversation through production, and that is something that is supported by and encouraged through the Open Web and Open Culture.
+
+<img alt="Good vs Bad Theft from Austin Kleon" src="http://farm7.staticflickr.com/6215/6289302147_38e8035680_z.jpg"/>
+###Ownership and Authorship
+
+**A remix creates a derivative work from an original.** In the web context, remix is used to imply that a new work is built off an already established base. That “base” work might be a code base, a curriculum base, an image base, a text base, etc.
+
+What's important about ideas and creation in an open context is making sure that credit is given where credit is due. Since we all influence each other, **it's important to make note of who influences your work and how.**
+
+**Let's explore open collaboration together.** Below are some ideas on how you might explore the Open Web through making. This short blog post barely scratches the surface of what the Open Web is or why it should be protected. Below are a variety of readings that will help you **delve deeper into the idea of “openness” and why it's important.**
+
+  [8]: http://commonspace.files.wordpress.com/2010/06/open-web-1-of-1.jpg
+
+## 4. Open it Up
+
+When have you been surprised and delighted that something was “open” for you to use? This could be OER content, an open web tool, or a picture you found on the internet. Create a “make” about that experience.
+
+<a href="http://schoolofopen.org" target="_blank"><img src="http://schoolofopen.p2pu.org/wp-content/themes/schoolofopen-theme/library/images/SOO-logo.png" width="300px" style="float:right;padding-left:10px;"></a> 
+###Learn about Open Licensing
+The <a href="http://schoolofopen.org" target="_blank">School of Open</a> offers many courses and challenges that can be worked through at your own pace at any time, with or without others. To explore what open licensing is all about, try these great learning activities:
+
+* <a href="https://p2pu.org/en/groups/get-cc-savvy/">Get Creative Commons Savvy</a>
+* <a href="https://p2pu.org/en/groups/teach-someone-something-with-open-content/">Teach someone something with open content</a>
+* <a href="https://p2pu.org/en/courses/3/">Get a CC license. Put it on your Website.</a>
+
+<a href="http://groups.google.com/group/school-of-open-announce">Sign up</a> for the School of Open's next facilitated round of CC for K-12 educators!</a>
+
+## Make to Reflect
+
+Over the course of #TeachTheWeb, we're developing an understanding of the following ideas:
+
+- Making as a way of learning
+- Building open learning experiences for others 
+- Delivering feedback and iterating via playtesting
+- Practicing openness 
+
+If you were to create a Badge to reflect the skills you mastered in your Make, what would that Badge be? Go ahead and:
+
+- Give it a name: what would you call your Badge?
+- Make a visual: what would your Badge look like? Draw the icon or create a little jpeg. 
+- List the criteria: what would the criteria for the Badge be? How would someone show the skills you mastered in your make?
+- Share it with us. Let the community know how you think these skills should be assessed.
+
