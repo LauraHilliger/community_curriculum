@@ -19,10 +19,7 @@ There are a variety of networks that seek to put these principles and values int
 In practice, it would seem that both hyper-local aspects as well as global connections play an important role in Connected Learning.
 
 
-
-
-
-## 2. How do *we* define our terms?
+## MAKE: How do *we* define our terms?
 
 As the “Makes” begin to stream in from our cohort, take a look and see:
 

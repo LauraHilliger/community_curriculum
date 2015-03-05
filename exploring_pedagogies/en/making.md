@@ -12,7 +12,7 @@ In the Making as Learning Movement, networks like <a href="http://webmaker.org?r
 
 #Make to learn tech skills and concepts.
 
-## 1. Say "Hello" by showing #TeachTheWeb what you think.
+## MAKE: Say "Hello" by showing #TeachTheWeb what you think.
 
 We’re more than handles, icons and profile pictures--we’re humans and peers in this together. In getting started, explore one of the following questions:
 
