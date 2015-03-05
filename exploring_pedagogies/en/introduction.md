@@ -1,4 +1,4 @@
-#Developer Relations Technical Speaker Training
+#EXPLORING PEDAGOGIES Relations Technical Speaker Training
 
 ![DevRel](https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png "DevRel")
 
