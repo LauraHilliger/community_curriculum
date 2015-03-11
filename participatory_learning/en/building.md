@@ -40,7 +40,7 @@ In "Design Challenges" learners select a problem, conduct research with users, p
 
 For instance, "Design Thinking Hawaii" collaborated with students at Castle Hill High School in Hawaii to redesign and restructure the high school to solve issues with engagement and learning outcomes.
 
->Through a series of mini-charettes, Design Thinking Hawaii has collected the needs and interests of learners, teachers, and families and engaged the larger community to imagine new solutions that could help the school be more effective. The adopted plan captured the community’s priorities in new content and structures, and Complex Area Superintendent Lea Albert is enabling the school and community to prototype and iterate core curriculum, character education, and support services. 
+>Through a series of mini-charettes, Design Thinking Hawaii has collected the needs and interests of learners, teachers, and families and engaged the larger community to imagine new solutions that could help the school be more effective. The adopted plan captured the community‚Äôs priorities in new content and structures, and Complex Area Superintendent Lea Albert is enabling the school and community to prototype and iterate core curriculum, character education, and support services. 
 
 -- [Design Thinking for Educators](http://www.designthinkingforeducators.com/design-examples/)
 
@@ -55,11 +55,11 @@ When feedback is positive, we gather strength and confidence, just as negative f
 
 ### Let's focus on delivering feedback first. 
 
-> Giving constructive criticism (and receiving it) is something that takes practice. We adhere to [“if you can't say something nice, don't say nothing at all”](http://en.wikipedia.org/wiki/Thumper_%28Bambi%29) because we don't believe that our opinions are necessary. We forget that criticism doesn't have to lead to complete redesign or reformulation. 
+> Giving constructive criticism (and receiving it) is something that takes practice. We adhere to [‚Äúif you can't say something nice, don't say nothing at all‚Äù](http://en.wikipedia.org/wiki/Thumper_%28Bambi%29) because we don't believe that our opinions are necessary. We forget that criticism doesn't have to lead to complete redesign or reformulation. 
 
 --[Laura Hilliger](http://twitter.com/epilepticrabbit)
 
-We also tend to spend time focusing on our own things, rather than looking at other people's ideas and thinking about making them better. We ask for feedback and expect to get some, but we rarely give our feedback freely – we wait until our specific feedback is requested or until the work directly affects our own.
+We also tend to spend time focusing on our own things, rather than looking at other people's ideas and thinking about making them better. We ask for feedback and expect to get some, but we rarely give our feedback freely ‚Äì we wait until our specific feedback is requested or until the work directly affects our own.
 
 We all know how fantastic it is to get good, constructive feedback on something we're working on. What if we all took more time to give feedback like that to others? What would happen? 
 
