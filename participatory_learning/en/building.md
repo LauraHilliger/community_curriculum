@@ -28,52 +28,12 @@ The [Web Literacy Map][8] is a tool that can help you develop these competentcie
 * We should empower learners to engage this ecosystem *and* make the Web they want to use.
 * Mozilla developed the [Web Literacy Map](http://webmaker.org/literacy?ref=training) to help you do just that. 
 
-## Building Together: The Design Process
-
-"Design thinking" is the practice of solving problems for humans, with other humans. Instead of working with hypothetical arguments or problem sets, learners engage real-world problems and work together on proposed solutions. Education folks might also use the terms [authentic assessments](http://en.wikipedia.org/wiki/Authentic_assessment) or [experiential learning](http://en.wikipedia.org/wiki/Experiential_learning) to describe these kinds of assignments. 
-
-In "Design Challenges" learners select a problem, conduct research with users, prototype a solution, give and receive feedback, and iterate to produce a final project.
-
-[IDEO](http://www.ideo.com/), the innovative design agency, has created a [Design Toolkit](http://www.designthinkingforeducators.com/design-examples/) for Educators which helps teachers co-design solutions with students:
-
-![screen shot 2014-03-29 at 10 51 52 am](https://cloud.githubusercontent.com/assets/1874003/2558623/be66bfb4-b751-11e3-8523-a249f0de7d2e.png)
-
-For instance, "Design Thinking Hawaii" collaborated with students at Castle Hill High School in Hawaii to redesign and restructure the high school to solve issues with engagement and learning outcomes.
-
->Through a series of mini-charettes, Design Thinking Hawaii has collected the needs and interests of learners, teachers, and families and engaged the larger community to imagine new solutions that could help the school be more effective. The adopted plan captured the community’s priorities in new content and structures, and Complex Area Superintendent Lea Albert is enabling the school and community to prototype and iterate core curriculum, character education, and support services. 
-
--- [Design Thinking for Educators](http://www.designthinkingforeducators.com/design-examples/)
-
-Through the design process, students learn from the community around them and work together on a solution that is relevant to their lives. The web is the perfect medium to prototype solutions to real-world problems.
-
-## Constructive Criticism
-<a href="https://www.flickr.com/photos/designandtechnologydepartment/4977671609" title="S2 Clock Project by Jordanhill School D&amp;T Dept, on Flickr"><img src="https://farm5.staticflickr.com/4127/4977671609_a9ed88ebe0_z.jpg" width="640" height="428" alt="S2 Clock Project"></a>
-
-Feedback is the basis for open source culture. Pull requests, comments, sharing posts--these are all "gestures" of feedback. The conversations are how we build, nurture and maintain our networks. It's the glue of the Web. 
-
-When feedback is positive, we gather strength and confidence, just as negative feedback forces us to consider whether our ideas are valid. In learning to participate on the Web, we learn how to accept and deliver feedback to improve our ideas and contribute to our communities. So how do we learn to give and receive feedback? We design for the feedback to be *constructive*. Now what does that mean? It's tricky. 
-
-### Let's focus on delivering feedback first. 
-
-> Giving constructive criticism (and receiving it) is something that takes practice. We adhere to [“if you can't say something nice, don't say nothing at all”](http://en.wikipedia.org/wiki/Thumper_%28Bambi%29) because we don't believe that our opinions are necessary. We forget that criticism doesn't have to lead to complete redesign or reformulation. 
-
---[Laura Hilliger](http://twitter.com/epilepticrabbit)
-
-We also tend to spend time focusing on our own things, rather than looking at other people's ideas and thinking about making them better. We ask for feedback and expect to get some, but we rarely give our feedback freely – we wait until our specific feedback is requested or until the work directly affects our own.
-
-We all know how fantastic it is to get good, constructive feedback on something we're working on. What if we all took more time to give feedback like that to others? What would happen? 
-
-### Now to what it feels like to receive feedback.
-
-It can be hard to hear critiques that reshape your work, but think about the input with some distance and consider how it might improve what you're doing. If, in the end, you disagree with the critique, explain why and your reaction will lead to a further conversation. We should aim to assume good faith when discussing feedback, and think not only of what to critique, but also concrete proposals to make it better.
-
-Feedback is a way to invite people into your project. Asking for it can become a gateway to deeper participation and collaboration as it gives agency.
 
 ## Deeper Collaboration
 
 <a href="https://www.flickr.com/photos/brenderous/6278328485" title="Collaborate [11/52] by Brenderous, on Flickr"><img src="https://farm7.staticflickr.com/6226/6278328485_22a07a4803_z.jpg" width="640" height="427" alt="Collaborate [11/52]"></a>
 
-As evidenced by its very name, the "Web" is not built by one person--the Web is, by its nature, collaborative. Just as learning to give and receive feedback takes practice, so does collaboration. Not everyone learns the same way. *People learn to collaborate in different ways, along multiple paths, just as they learn to code or make things.* Our experiences in group work past and present have great influence over how we think about ourselves as collaborators, and how we act as collaborators is greatly contingent on who we are.
+As evidenced by its very name, the "Web" is not built by one person--the Web is, by its nature, collaborative. Just as [learning to give and receive feedback](../../exploring_pedagogies/en/feedback.md) takes practice, so does collaboration. Not everyone learns the same way. *People learn to collaborate in different ways, along multiple paths, just as they learn to code or make things.* Our experiences in group work past and present have great influence over how we think about ourselves as collaborators, and how we act as collaborators is greatly contingent on who we are.
 
 Our roles as mentors are changing, and so are the roles of learners and peers. These roles are fluid in maker and remix pedagogies, and they're fluid in spaces where community and inquiry drive co-learning and making.
 
