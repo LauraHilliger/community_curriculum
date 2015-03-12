@@ -102,10 +102,6 @@ When you're looking at the community, examine how the community gives and receiv
 * Collect your resources and make a [Storify](https://storify.com/) or a [Pinterest board](http://www.pinterest.com/) with your relevant quotes, pictures, documents.
 * Share your curated resource with the [Discourse community](http://discourse.webmakerprototypes.org/category/training/building) and ask people to contribute further resources on your idea. 
 
-#Tactile Learning Methods
-
-You might have heard learning theories about different "learning styles", including visual learners, auditory learners and kinesthetic learners. When thinking about participatory learning, we prefer to mix and match all the learning styles together, and to be fair, there's no evidence to suggest that this approach is incorrect. In fact, inherent to learning with media is learning through all of these methods. This particular module is about thinking outside the box when engaging learners. *What methods can we use to spur creativity and excite our learners.*
-
 ## Building Together: The Design Process
 
 "Design thinking" is the practice of solving problems for humans, with other humans. Instead of working with hypothetical arguments or problem sets, learners engage real-world problems and work together on proposed solutions. Education folks might also use the terms [authentic assessments](http://en.wikipedia.org/wiki/Authentic_assessment) or [experiential learning](http://en.wikipedia.org/wiki/Experiential_learning) to describe these kinds of assignments. 
@@ -125,3 +121,15 @@ For instance, "Design Thinking Hawaii" collaborated with students at Castle Hill
 Through the design process, students learn from the community around them and work together on a solution that is relevant to their lives. The web is the perfect medium to prototype solutions to real-world problems.
 
 ## Thinking with Physical Tools
+
+You might have heard learning theories about different "learning styles", including visual learners, auditory learners and kinesthetic learners. When thinking about participatory learning, we prefer to mix and match all the learning styles together, and to be fair, there's no evidence to suggest that this approach is incorrect. In fact, inherent to learning with media is learning through all of these methods. This particular module is about thinking outside the box when engaging learners. *What methods can we use to spur creativity and excite our learners.*
+
+>It's a haptic method to encourage people to talk about different types of participation and how we interrelate. We made the blocks because learners need to critically explore modes of participation, and a game makes that easier. 
+
+--[Peg Koedel, Casablanca Mediahaus](http://casablanca-dresden.de)
+
+<img src="{{ site.baseurl }}/img/wackelturm.JPG" width="600px">
+<p style="font-size:.8em;">Photo of the Casablanca "Wackelturm" game</p>
+
+Educators and technologists around the world are finding new ways to use participatory learning methods. They are publishing in the open ([download the Wackelturm templates!](https://github.com/edgar-b/Wackelturm)) and collaborating online to spread and improve these methods. 
+
