@@ -38,3 +38,20 @@ Because each person has a unique perspective that often leads to rethinking conc
 As you share your makes, resources and projects, watch your user's reactions and ask yourself questions about their experience. As them to answer questions too, involve them in your process! Practically speaking, if you don't have a regular meetup or classroom where you're already engaging your audience, playtesting in the real world might seem difficult. It doesn't have to be. A playtesting session can be designed as an informal <a href="https://events.webmaker.org/#!/event-guides?ref=training">kitchen table party</a> where you can practice how to #TeachTheWeb. Playtesting your ideas with a group of friends or relatives is a great way to push your thinking to the next level.
 
 The important thing about #TeachTheWeb is to understand how the topics and themes we explore relate to our real worlds and daily lives. Working openly, asking for help and sharing freely will allow us to learn from our successes and failures. We can then improve our resources based on practical experience.
+
+#Make to learn tech skills and concepts.
+
+## Playtest your Teaching Kit
+
+If you participated in the [Building module](http://training.webmakerprototypes.org/en/building/concepts/) of #TeachTheWeb, now is the perfect time to playtest the learning resources you made. (If you haven't yet done the Building module, try the DIY Learning Experience make below!)
+
+Gather a few of your friends, family members or learners, and run your activities with them. What went right? What went wrong? Did your learners learn something? What would you change? Were all of your learning goals addressed? Were there other skills/competencies your learner acquired that you hadn’t thought of? What surprised you about your plan? Share your playtest and reflection with the [community](https://discourse.webmakerprototypes.org/category/training/facilitating). Invite others who playested to document their feedback and include it in your reflection.
+
+## Playtest someone else's Teaching Kit
+
+There are plenty of teaching kits on webmaker.org that you can use to level up your facilitation skills. Choose one that sounds interesting to you and gather some people to teach them something about the web. You can teach to 3 or 30 learners, for 30 minutes or 3 hours – test yourself, then reflect on your experience in the [community](https://discourse.webmakerprototypes.org/category/training/facilitating). Be sure to mention people with an @[name] when you post your reflection.
+
+## Give Feedback and Talk to Strangers
+Jump into the [community](http://discourse.webmakerprototypes.org/category/training/building) and start reviewing and commenting on other people's work. Being open and sharing your thoughts is a great way to train up for facilitating learning because open interaction is a keystone. 
+
+Another great way to test your facilitating skills is to talk to strangers. Opening conversations with random people might seem a little intimdating, but the more you feel comfortable with what you do and do not "know", the better you'll help others learn....
