@@ -20,3 +20,21 @@ We all know how fantastic it is to get good, constructive feedback on something 
 It can be hard to hear critiques that reshape your work, but think about the input with some distance and consider how it might improve what you're doing. If, in the end, you disagree with the critique, explain why and your reaction will lead to a further conversation. We should aim to assume good faith when discussing feedback, and think not only of what to critique, but also concrete proposals to make it better.
 
 Feedback is a way to invite people into your project. Asking for it can become a gateway to deeper participation and collaboration as it gives agency.
+
+# What is Playtesting?
+
+Playtesting is a method of quality control that reveals design flaws, complications, misunderstandings and missed steps. Using the term 'playtest' instead of 'user test' is a way of indicating that quality control can be fun and that webmaking as learning is a good way to surface the playful spirit that learning experiences should have. Playtesting is also a step in co-designing with your audience, as it's a reflective activity for that audience.
+
+In the Mozilla universe, we believe in the idea that co-designing things with the people we're designing them for. It leads to more effective, interesting and appropriate learning opportunities. Instead of trying to perfect our ideas before sharing, we say (a variation of) 'Just ship it!' We put things into the world, allow people to play around with them, and see what happens.
+
+The answer to 'What works best?' is ultimately a question that you and your audience have to work out together. It can be quite scary to playtest half-baked ideas and creations we've never shown our actual audience. However, sharing early and often allows us to gather the valuable perspectives of our own audience. Sometimes, you'll find an audience you didn't mean to find. Sometimes you'll discover that you've missed the mark and have to start again.
+
+# Planning and Shipping Events in the Open
+
+<img src="http://party.webmaker.org/img/collage/9.jpg" style="float:right;"/>When we ship an event or teaching kit, we share it in the open for others to use and remix in teaching and learning the Web. We put our work and ourselves out there to model interest-driven, openly-networked, and production-centered work. Every time we ship, we need to take it as an opportunity to tinker with our approaches, attitudes, and capacities for teaching and learning.
+
+Because each person has a unique perspective that often leads to rethinking concepts, ideas or educational resources, shipping often means that we can work faster. We can integrate new ideas and then test that integration. Then we can rinse and repeat. Useful, constructive feedback drives trust and community; to sustain a community of webmakers, it's important for users to have the ability to gift feedback to authors.
+
+As you share your makes, resources and projects, watch your user's reactions and ask yourself questions about their experience. As them to answer questions too, involve them in your process! Practically speaking, if you don't have a regular meetup or classroom where you're already engaging your audience, playtesting in the real world might seem difficult. It doesn't have to be. A playtesting session can be designed as an informal <a href="https://events.webmaker.org/#!/event-guides?ref=training">kitchen table party</a> where you can practice how to #TeachTheWeb. Playtesting your ideas with a group of friends or relatives is a great way to push your thinking to the next level.
+
+The important thing about #TeachTheWeb is to understand how the topics and themes we explore relate to our real worlds and daily lives. Working openly, asking for help and sharing freely will allow us to learn from our successes and failures. We can then improve our resources based on practical experience.
