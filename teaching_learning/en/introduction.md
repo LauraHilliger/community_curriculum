@@ -1,3 +1,30 @@
+# Teaching and Learning in Open Spaces
+
+<div class="well example">
+<h4>Overarching objectives</h4>
+<p>Recognize and demonstrate what is meant by “Participatory Learning”</p>
+
+<h4>Module Competencies</h4>
+<ul>
+<li>Understand
+<ul>
+<li>making, open practices (open tools, making and learning)</li>
+<li>making, open practices (working openly, open reflection)</li>
+</ul>
+<li>Model
+<ul>
+<li>remixing, promoting action, open practices (connected learning, sharing/storytelling, facilitating)</li>
+<li>remixing, promoting action (for context, sharing/storytelling)</li>
+</ul>
+<li>Unite
+<ul>
+<li>working locally, mobilizing community (finding your crew, empowerment, encouraging diversity informal meetup/kitchen table)</li>
+<li>building partnerships, developing leadership (mindful listening, finding cohesion, encouragement)</li>
+<li>developing leadership, participation (codesign, conflict resolution)</li>
+</li>
+</ul>
+</div>
+
 # Introduction.
 
 First, a bit of background to set the stage....There are some core ideas that underpin the Mozilla “way” of teaching. We’ll sum them up for you in short order..
