@@ -1,6 +1,6 @@
 #Sustaining a Movement
 
-This module is all about connecting people. Through practiced, real world, offline strategies, you will learn to sustain local activity, develop strong communities and connect globally to better your own practice and the practice of others.
+This module is all about connecting people. Through practiced, real world, offline strategies, you will learn to sustain local activity, develop strong communities and connect globally to better your own practice and the practice of others. This module assumes you've spent a bit of time thinking and learning about how we teach and learn in open spaces and how we design for global engagement.
 
 
 <div class="well example">
