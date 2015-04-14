@@ -1,3 +1,10 @@
+Unite Objectives
+Finding your crew
+    •    Sustain local activity and connect globally
+    •    Bring local communities together
+    •    Define “Community of Practice”
+    •    Plan a local campaign / meet-up
+
 ##Participate: Building our Culture
 
 Co-design, networked learning, playtesting and feedback--we invite others to participate in everything we do. As mentors, it’s our responsibility to invite others to learn with us. 
