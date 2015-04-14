@@ -1,26 +1,26 @@
 # Teaching and Learning in Open Spaces
 
 <div class="well example">
-	<h2>Overarching objectives</h2>
+	<h4>Overarching objectives</h4>
 	<p>Recognize and demonstrate what is meant by “Participatory Learning”</p>
 
 	<h3>Module Competencies</h3>
-	<h4>Understand</h4>
+	<h4>Understand
 		<a href="http://www.zythepsary.com/techie/open-fluency/"><button class="btn literacy-color-composing">Making</button></a>
 		<a href="http://www.zythepsary.com/techie/open-fluency/"><button class="btn literacy-color-open-practices">Open Practices</button></a>
-	
-	<h4>Model</h4>
+	</h4>
+	<h4>Model
 		<a href="http://www.zythepsary.com/techie/open-fluency/"><button class="btn literacy-color-remixing">Remixing</button></a>
 		<a href="http://www.zythepsary.com/techie/open-fluency/"><button class="btn literacy-color-sharing">Promoting Action</button></a>
 		<a href="http://www.zythepsary.com/techie/open-fluency/"><button class="btn literacy-color-open-practices">Open Practices</button></a>
-
-	<h4>Unite</h4>
+	</h4>
+	<h4>Unite
 		<a href="http://www.zythepsary.com/techie/open-fluency/"><button class="btn literacy-color-infrastructure">Working Locally</button></a>
 		<a href="http://www.zythepsary.com/techie/open-fluency/"><button class="btn literacy-color-collaborating">Mobilizing Community</button></a>
 		<a href="http://www.zythepsary.com/techie/open-fluency/"><button class="btn literacy-color-credibility">Building Partnerships</button></a>
 		<a href="http://www.zythepsary.com/techie/open-fluency/"><button class="btn literacy-color-sharing">Developing Leadership</button></a>
 		<a href="http://www.zythepsary.com/techie/open-fluency/"><button class="btn literacy-color-community-participation">Participation</button></a>
-			
+	</h4>
 </div>
 
 # Introduction.
