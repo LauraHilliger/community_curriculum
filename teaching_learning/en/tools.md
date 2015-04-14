@@ -1,8 +1,11 @@
-# Collaborative Tools
+# Open Tools
 
-The open community uses tons of different tools to get things done. The [How to Work Open article](http://openmatt.org/2011/04/06/how-to-work-open/) from [OpenMatt](http://twitter.com/openmatt) is a great starter read on *why you should work openly*, and this page details some of the most popular tools used in the Mozilla community.
+Part of what makes the open community unique is a unique way of working. [Mozilla] (http://mozilla.org) is committed to open not only at the level of technology, but also in terms of how we work  -- for decision-making, discussion, working on specific tasks and bugs, communications and community. It's a defining part of our culture and history. 
+
+The open community uses tons of different tools to get things done. The [How to Work Open article](http://openmatt.org/2011/04/06/how-to-work-open/) from [OpenMatt](http://twitter.com/openmatt) is a great starter read on *why you should work openly*, and this module details some of the most popular tools used in the Mozilla community.
 
 ## Etherpad
+<img src="../../../../img/etherpad-gif.gif" width="100%">
 ### What it is
 Collaborative document writing/editing with chat
 ### Setup 

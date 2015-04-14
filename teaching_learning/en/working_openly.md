@@ -1,3 +1,15 @@
+# Working Openly
+
+The open culture and way of working faces new challenges and opportunities. Our community has grown enormously. The scope and complexity of Mozilla products has increased. Specific business requirements can clash with the goal of transparency and community participation. **As the open community grows exponentially, we strain our traditional culture and systems.**
+
+Working open can be messy and difficult — but it’s still essential to our continued success.
+
+Here’s what Mitchell Baker had to say about Mozilla being open in 2013:
+
+>The hidden costs of becoming a conventional organization — and following the best practices of other organizations — >are huge. And maybe a silent killer. We can’t just adopt what everybody else does, where no one can say anything >publicly. When we do that, we go slow, we lose agility, and we lose the personality that attracts people to Mozilla.
+
+In this module, we will reaffirm open as our default way to work. Working in the open carries risks. Sometimes individuals’ blog posts are mis-reported or misunderstood. Sometimes early prototypes get treated as product releases or set-in-tone ideas. 
+
 ##Open Web
 
 When we talk about “openness”, there are a variety of things that come to mind. We can view openness i) <a href="https://p2pu.org/en/schools/school-of-open/">through the lens of copyright/copyleft</a>, ii) <a href="https://developer.mozilla.org/en-US/docs/Web_Standards">through the technical structures</a> that make a webpage open or not, iii) through <a href="https://wiki.mozilla.org/Working_open">the cultural practices</a> the Open Community prides itself on, and so on. The term openness is a confluence of technical, cultural and social definitions that can get meta pretty quickly.
