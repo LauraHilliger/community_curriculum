@@ -10,11 +10,9 @@ Here’s what Mitchell Baker had to say about Mozilla being open in 2013:
 
 In this module, we will reaffirm open as our default way to work. Working in the open carries risks. Sometimes individuals’ blog posts are mis-reported or misunderstood. Sometimes early prototypes get treated as product releases or set-in-tone ideas. 
 
-##Open Web
-
 When we talk about “openness”, there are a variety of things that come to mind. We can view openness i) <a href="https://p2pu.org/en/schools/school-of-open/">through the lens of copyright/copyleft</a>, ii) <a href="https://developer.mozilla.org/en-US/docs/Web_Standards">through the technical structures</a> that make a webpage open or not, iii) through <a href="https://wiki.mozilla.org/Working_open">the cultural practices</a> the Open Community prides itself on, and so on. The term openness is a confluence of technical, cultural and social definitions that can get meta pretty quickly.
 
-###Tenets of Openness
+## Tenets of Openness
 ![A Mark Surman Doodle][8]
 
 Nevertheless, there are several tenets of openness that apply to the technical implementation as well as the social and cultural usage of the Web:
@@ -26,7 +24,7 @@ Another tenet is **transparency**. You can see how any webpage is built, you can
 With decentralization and transparency comes the tenet of **hackability**. The Open Web is a structure that makes remix and redistribution easy, and the culture that lives by these tenets takes pride in extending, changing and reforming each other's work. Because we can see how things are built, we can change them and apply new meaning and context atop someone else's ideas. We start to have a conversation through production, and that is something that is supported by and encouraged through the Open Web and Open Culture.
 
 <img alt="Good vs Bad Theft from Austin Kleon" src="http://farm7.staticflickr.com/6215/6289302147_38e8035680_z.jpg"/>
-###Ownership and Authorship
+## Ownership and Authorship
 
 **A remix creates a derivative work from an original.** In the web context, remix is used to imply that a new work is built off an already established base. That “base” work might be a code base, a curriculum base, an image base, a text base, etc.
 
@@ -36,7 +34,7 @@ What's important about ideas and creation in an open context is making sure that
 
   [8]: http://commonspace.files.wordpress.com/2010/06/open-web-1-of-1.jpg
   
-  # What's hard about open?
+## What's hard about open?
 
 Working openly has it's own set of trials, but we believe the benefits of working openly (see the [How to Work Open article](http://openmatt.org/2011/04/06/how-to-work-open/) from [OpenMatt](http://twitter.com/openmatt)) far outweigh the potential problems. However it's important to understand what openness can lead to.
 
@@ -54,7 +52,7 @@ Open is doesn't mean just using sharing tools like github or twitter -- it's a f
 Community management and conflict resolution go hand in hand with working openly, but as we've said before, Mozilla believes that open is our default setting. We strive to practice the tenets of open in all the things we do. 
 
 
-## 4. Open it Up
+## Open it Up
 
 When have you been surprised and delighted that something was “open” for you to use? This could be OER content, an open web tool, or a picture you found on the internet. Create a “make” about that experience.
 
