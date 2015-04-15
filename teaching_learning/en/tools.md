@@ -5,7 +5,7 @@ Part of what makes the open community unique is a unique way of working. [Mozill
 The open community uses tons of different tools to get things done. The [How to Work Open article](http://openmatt.org/2011/04/06/how-to-work-open/) from [OpenMatt](http://twitter.com/openmatt) is a great starter read on *why you should work openly*, and this module details some of the most popular tools used in the Mozilla community.
 
 ## Etherpad
-<img src="../../../../img/etherpad-gif.gif" width="100%">
+<img src="../../../img/etherpad-gif.gif" width="100%">
 ### What it is
 Collaborative document writing/editing with chat
 ### Setup 
