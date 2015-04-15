@@ -1,9 +1,3 @@
-    •    Sustain local activity and connect globally
-    •    Bring local communities together
-    •    Define “Community of Practice”
-    •    Plan a local campaign / meet-up
-
-
 # Finding your crew
 
 Co-design, networked learning, playtesting and feedback--we invite others to participate in everything we do. As leaders, it’s our responsibility to invite others to make and learn with us. Build a community around you. Members can be peers, co-workers, family – people you want to collaborate with. 
@@ -12,7 +6,9 @@ We <3 codesign. Every great event and online course is well-served by forming a 
 
 Think through which communities you'd like to serve, and post ideas for building your crew to <a href="http://discourse.webmaker.org">Discourse</a>. Be sure to mention people with an @[name]!
 
-Need help finding peers? Try one of these tips:
+<img src="../../../img/our-crew.jpg">
+
+## Need help finding peers? Try one of these tips:
 
 * **Local schools**. Approach nearby colleges, universities or schools and see if any students want to mentor. You might contact teachers in a relevant field directly, or leave signs on message boards.
 * **Co-workers**. Often times the people we work with are eager to assist and learn as well. Send out an email to your office asking if anyone is interested.
