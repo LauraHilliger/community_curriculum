@@ -3,7 +3,7 @@
 <div class="well example">
 	<h3>Actions</h3>
 	<ul>
-		<li><strong>Find your spirit topic</strong>: Passion + Web + You = Learning! What are you personally passionate about? Is it existentialist philosophy, the cosmos, privacy, baking scones? [Remix a Comic](https://webmaker.makes.org/thimble/create-your-own-comic-a-starter-make) to explain the basics of your passion. Or, use the [Mighty Jupiter](https://chadsansing.makes.org/thimble/webmaker-planet) template to share basic facts about your area of expertise. Share your make(s) with the [community](http://discourse.webmaker.org/category/training/building) and <strong>think about sharing your passion with Club participants</strong>. </li>
+		<li><strong>Find your spirit topic</strong>: Passion + Web + You = Learning! What are you personally passionate about? Is it existentialist philosophy, the cosmos, privacy, baking scones? <a href="https://webmaker.makes.org/thimble/create-your-own-comic-a-starter-make">Remix a Comic</a> to explain the basics of your passion. Or, use the <a href="https://chadsansing.makes.org/thimble/webmaker-planet">Mighty Jupiter</a> template to share basic facts about your area of expertise. Share your make(s) with the <a href="http://discourse.webmaker.org/category/training/building">community</a> and <strong>think about sharing your passion with Club participants</strong>. </li>
 		<li><strong>Choose the Right Audience</strong>: Ok, you're passionate about something, who else can you think of that is passionate about that same topic? Make a list of what you have in common with these people. Ask yourself:
 				<ul>
 					<li>How old are these people?</li>
@@ -15,16 +15,19 @@
 				</ul>
 		<li><strong>Start Recruiting</strong>: Remix our recruitment spreadsheet template to track where you're looking for people and any conversations you have with:
 
-* **Local schools**. Approach nearby colleges, universities or schools and see if any students want to mentor. You might contact teachers in a relevant field directly, or leave signs on message boards.
-* **Co-workers**. Often times the people we work with are eager to assist and learn as well. Send out an email to your office asking if anyone is interested.
-* **Local organizations**. There might be an organization nearby that is looking for ways for their employees to get more involved in the community.
-* **Learners**. Ask those who are attending your events if they have a parent, relative or friend who is interested in mentoring. Or maybe they want to become mentors themselves!
-* **Online**. Put a call out for mentors on your website, local forums and social media. You never know where the message will land.
-
+				<ul>
+					<li><strong>Local schools</strong> Approach nearby colleges, universities or schools and see if any students want to mentor. You might contact teachers in a relevant field directly, or leave signs on message boards.</li>
+					<li><strong>Co-workers</strong> Often times the people we work with are eager to assist and learn as well. Send out an email to your office asking if anyone is interested.</li>
+					<li><strong>Local organizations</strong> There might be an organization nearby that is looking for ways for their employees to get more involved in the community.</li>
+					<li><strong>Learners</strong> Ask those who are attending your events if they have a parent, relative or friend who is interested in mentoring. Or maybe they want to become mentors themselves!</li>
+					<li><strong>Online</strong> Put a call out for mentors on your website, local forums and social media. You never know where the message will land.</li>
+				</ul>
 <a href="https://events.webmaker.org/event-guides"><button class="btn btn-primary">Be bold and organize your 1st meetup</button></a>
 		</li>
 	</ul>
 </div>
+
+## Participate: Building our Culture
 
 Co-design, networked learning, playtesting and feedback--we invite others to participate in everything we do. As leaders, it’s our responsibility to invite others to make and learn with us. Build a community around you. Members can be peers, co-workers, family – people you want to collaborate with. 
 
@@ -33,8 +36,6 @@ We <3 codesign. Every great event and online course is well-served by forming a 
 Think through which communities you'd like to serve, and post ideas for building your crew to <a href="http://discourse.webmaker.org">Discourse</a>. Be sure to mention people with an @[name]!
 
 <img src="../../../img/our-crew.jpg">
-
-#Participate: Building our Culture
 
 Mozilla, P2PU, Wikipedia, YouTube, and Instructables are all "communities of practice". These organizations and businesses work hard to encourage participation in their cultures. As a network, we can solve large-scale, unique, complicated and new problems together. We can be socially creative, inspire each other and overcome obstacles.
 
@@ -62,7 +63,7 @@ Just as we work to design purposeful, participatory, and fun events for learners
 
 We’ve put theory and practice to the test and seen first hand that shifting dynamic of mentor/learner relationships. It’s time to help each other as we create local communities of practice that tie into a global movement.
 
-###To recap:
+##To recap:
 * We are building our own participatory culture in the Mozilla community
 * Together we can solve large-scale, complex problems
 * You can continue to level up through teaching yourself new things, asking others to participate, and sharing your failures, successes and lessons learned
