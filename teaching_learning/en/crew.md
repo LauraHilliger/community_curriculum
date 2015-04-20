@@ -1,14 +1,19 @@
 # Finding your crew
 
-Co-design, networked learning, playtesting and feedback--we invite others to participate in everything we do. As leaders, it’s our responsibility to invite others to make and learn with us. Build a community around you. Members can be peers, co-workers, family – people you want to collaborate with. 
-
-We <3 codesign. Every great event and online course is well-served by forming a design team to bounce ideas off of, distribute responsibilities, and help promote their efforts. Working with others is fun and having a community will make your programs, actions and efforts more impactful and sustainable. 
-
-Think through which communities you'd like to serve, and post ideas for building your crew to <a href="http://discourse.webmaker.org">Discourse</a>. Be sure to mention people with an @[name]!
-
-<img src="../../../img/our-crew.jpg">
-
-## Need help finding peers? Try one of these tips:
+<div class="well example">
+	<h3>Actions</h3>
+	<ul>
+		<li><strong>Find your spirit topic</strong>: Passion + Web + You = Learning! What are you personally passionate about? Is it existentialist philosophy, the cosmos, privacy, baking scones? [Remix a Comic](https://webmaker.makes.org/thimble/create-your-own-comic-a-starter-make) to explain the basics of your passion. Or, use the [Mighty Jupiter](https://chadsansing.makes.org/thimble/webmaker-planet) template to share basic facts about your area of expertise. Share your make(s) with the [community](http://discourse.webmaker.org/category/training/building) and <strong>think about sharing your passion with Club participants</strong>. </li>
+		<li><strong>Choose the Right Audience</strong>: Ok, you're passionate about something, who else can you think of that is passionate about that same topic? Make a list of what you have in common with these people. Ask yourself:
+				<ul>
+					<li>How old are these people?</li>
+				    <li>Do they have a lot of family obligations?</li>
+				    <li>Do they have a particular career path?</li>
+				    <li>What are their hobbies?</li>
+				    <li>Who would benefit from a club on this topic?</li> 
+				    <li>What's the value proposition to these people?</li> 
+				</ul>
+		<li><strong>Start Recruiting</strong>: Remix our recruitment spreadsheet template to track where you're looking for people and any conversations you have with:
 
 * **Local schools**. Approach nearby colleges, universities or schools and see if any students want to mentor. You might contact teachers in a relevant field directly, or leave signs on message boards.
 * **Co-workers**. Often times the people we work with are eager to assist and learn as well. Send out an email to your office asking if anyone is interested.
@@ -17,6 +22,17 @@ Think through which communities you'd like to serve, and post ideas for building
 * **Online**. Put a call out for mentors on your website, local forums and social media. You never know where the message will land.
 
 <a href="https://events.webmaker.org/event-guides"><button class="btn btn-primary">Be bold and organize your 1st meetup</button></a>
+		</li>
+	</ul>
+</div>
+
+Co-design, networked learning, playtesting and feedback--we invite others to participate in everything we do. As leaders, it’s our responsibility to invite others to make and learn with us. Build a community around you. Members can be peers, co-workers, family – people you want to collaborate with. 
+
+We <3 codesign. Every great event and online course is well-served by forming a design team to bounce ideas off of, distribute responsibilities, and help promote their efforts. Working with others is fun and having a community will make your programs, actions and efforts more impactful and sustainable. 
+
+Think through which communities you'd like to serve, and post ideas for building your crew to <a href="http://discourse.webmaker.org">Discourse</a>. Be sure to mention people with an @[name]!
+
+<img src="../../../img/our-crew.jpg">
 
 #Participate: Building our Culture
 
@@ -37,17 +53,17 @@ Together, are building our global community, and it is made up of local communit
 Just as we work to design purposeful, participatory, and fun events for learners, we need to remain connected with one another up and down the contribution ladder in purposeful, participatory, and fun ways. In thinking about how to connect further with others working for an open Web, and in thinking about how to help others begin this work, as well, you might:
 
 * **Learn <a href="https://github.com/LauraHilliger/community_curriculum">GitHub</a>** and post your curriculum (for makes AND events) there, for developers and educators to 'fork' into their own work. 
-* **Talk with local educators in formal spaces** - like schools and libraries - about starting a <a href="http://teach.webmaker.org/clubs">Webmaker club</a> with an institutional co-sponsor.
+* **Talk with local educators in formal spaces** - like schools and libraries - about starting a <a href="http://teach.mozilla.org/clubs">Mozilla Web Club</a> with an institutional co-sponsor.
 * **Level-up another local contributor** to mentor status and work together to scale up your events from the kitchen table to larger venues like maker spaces or libraries.
 * **Push your work into a new place for new audiences** - run a <a href="https://training.webmakerprototypes.org/en/host-a-training/">train the trainer event</a>, write an e-book on coding in the classroom or learn how to make an online or print-and-play game that teaches the web.
 
 #Connect with us
 **Ultimately, we connect with one another to make this work real.** An open Web depends on open societies, and those societies are full of living, breathing people like us who can best latch on to ideas of diversity and freedom when given the chance to see and make things of tangible worth and personal meaning like any number of open source projects around the world. Connecting at a human level, face-to-face and online, low-fi and hi-fi, to help and ask for help - this is what it means to stay connected in an effort to write the Open Web and open societies.
 
-We’ve put [theory] (http://training.webmakerprototypes.org/en/exploring/concepts/) and [practice] (http://training.webmakerprototypes.org/en/facilitating/concepts/) to the test and seen first hand that shifting dynamic of mentor/learner relationships. It’s time to help each other as we create local communities of practice that tie into a global movement.
+We’ve put theory and practice to the test and seen first hand that shifting dynamic of mentor/learner relationships. It’s time to help each other as we create local communities of practice that tie into a global movement.
 
 ###To recap:
 * We are building our own participatory culture in the Mozilla community
 * Together we can solve large-scale, complex problems
-* You can continue to level up through teaching yourself new things, asking others to participate, and sharing your successes and lessons learned
+* You can continue to level up through teaching yourself new things, asking others to participate, and sharing your failures, successes and lessons learned
     
